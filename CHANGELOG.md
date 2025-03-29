@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e61abc7`](https://github.com/stdlib-js/stdlib/commit/e61abc75775756383a20985c7166f85149ee0b68) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`4df836a`](https://github.com/stdlib-js/stdlib/commit/4df836acfee5e6f359fc5d15a31ee9f6ef4237f0) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`2c352ad`](https://github.com/stdlib-js/stdlib/commit/2c352ad8f258832ebced9d6643186ff4463e20df) - **refactor:** update `stats/base/dstdev` native addon from C++ to C [(#4270)](https://github.com/stdlib-js/stdlib/pull/4270) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
