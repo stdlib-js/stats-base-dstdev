@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-04-29)
+
+<section class="features">
+
+### Features
+
+-   [`f6baee4`](https://github.com/stdlib-js/stdlib/commit/f6baee41647e238275de3bda5cbba1943a1ebd8a) - add C ndarray interface and refactor implementation for `stats/base/dstdev` [(#6850)](https://github.com/stdlib-js/stdlib/pull/6850)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`f6baee4`](https://github.com/stdlib-js/stdlib/commit/f6baee41647e238275de3bda5cbba1943a1ebd8a) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dstdev` [(#6850)](https://github.com/stdlib-js/stdlib/pull/6850) _(by Gururaj Gurram, Athan Reines)_
 -   [`e61abc7`](https://github.com/stdlib-js/stdlib/commit/e61abc75775756383a20985c7166f85149ee0b68) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`4df836a`](https://github.com/stdlib-js/stdlib/commit/4df836acfee5e6f359fc5d15a31ee9f6ef4237f0) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`2c352ad`](https://github.com/stdlib-js/stdlib/commit/2c352ad8f258832ebced9d6643186ff4463e20df) - **refactor:** update `stats/base/dstdev` native addon from C++ to C [(#4270)](https://github.com/stdlib-js/stdlib/pull/4270) _(by Vivek Maurya)_
@@ -30,10 +41,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 -   Vivek Maurya
 
